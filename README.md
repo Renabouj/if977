@@ -1,4 +1,4 @@
-## Integrates  
+## Integrantes  
 
 Gabriel de Oliveira Ferreira (gof2)  
 Guilherme Guerra Campos (ggc3)  
